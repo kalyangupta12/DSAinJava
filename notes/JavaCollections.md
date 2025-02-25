@@ -139,3 +139,4 @@ public class FirstNonRepeatingChar {
 
 ## Note
 These notes are created by DeepSeek & I am saving it here!
+will be adding more in the same file soon !
