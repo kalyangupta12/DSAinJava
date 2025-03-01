@@ -16,6 +16,7 @@ public class ParamFuncRecursion {
         if(n==1) return 1;
         return (n * FuncNFact(n-1));
     }
+
     public static void main(String[] args) {
         //Parameterised Recursion
         ParamNAdd(3, 0);
