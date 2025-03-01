@@ -6,6 +6,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 public class lengthOfLongestSubstring_3 {
+    //it is a brute force method maynot pass all edge cases
     public static int lengthOfLongestSubstring(String s) {
         if(s.isEmpty()) return 0;
         int maxans = Integer.MIN_VALUE;
