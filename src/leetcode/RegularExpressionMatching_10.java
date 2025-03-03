@@ -1,6 +1,7 @@
 package leetcode;
 
 public class RegularExpressionMatching_10 {
+    // This is a brute force method, soon will add the DP used optimal method
     public boolean isMatch(String s, String p) {
         // Base case: if the pattern is empty, the string must also be empty to match
         if (p.isEmpty()) {
